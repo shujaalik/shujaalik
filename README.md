@@ -41,7 +41,9 @@ const shuja = {
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=081828&color=e0e9f9)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=081828&color=e0e9f9)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=081828&color=e0e9f9)
-![](https://img.shields.io/badge/npm-NodeJS?style=flat&logo=nodedotjs&logoColor=081828&color=e0e9f9)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=081828&color=e0e9f9)
+![](https://img.shields.io/badge/npm-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=081828&color=e0e9f9)
+![](https://img.shields.io/badge/tools-Firebase-informational?style=flat&logo=firebase&logoColor=081828&color=e0e9f9)
 ![](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-e0e9f9?style=flat&logo=googlecloud&logoColor=081828&color=e0e9f9)
  
  
