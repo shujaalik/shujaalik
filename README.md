@@ -18,7 +18,7 @@ My name is Shuja Ali and I'm a Full-Stack Web Developer from Karachi, Pakistan. 
  
  ```javascript
 const shuja = {
-  code: [Javascript/Typescript, HTML, CSS/SCSS, Python],
+  code: [Javascript, Typescript, HTML, CSS, SCSS, Python],
   tools: [React, Node, Express, SocketIO, Firebase],
   workingAt: {
       name: "KunjiSoft Technologies (Pvt) Ltd.",
@@ -38,7 +38,11 @@ const shuja = {
 ```
  
  ## 🧑‍💻 Technologies & Tools
- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=081828&color=e0e9f9)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=081828&color=e0e9f9)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=081828&color=e0e9f9)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=081828&color=e0e9f9)
+![](https://img.shields.io/badge/npm-NodeJS?style=flat&logo=nodedotjs&logoColor=081828&color=e0e9f9)
+![](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-e0e9f9?style=flat&logo=googlecloud&logoColor=081828&color=e0e9f9)
  
  
  ## &#x1f4c8; GitHub Stats
