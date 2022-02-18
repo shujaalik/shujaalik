@@ -17,7 +17,7 @@ My name is Shuja Ali and I'm a Full-Stack Web Developer from Karachi, Pakistan. 
  ## 🦾 A little about me
  
  ```javascript
-const shuja = {
+const me = {
   code: [Javascript, HTML, CSS, SCSS, Python],
   tools: [React, Node, Express, SocketIO, Firebase],
   workingAt: {
