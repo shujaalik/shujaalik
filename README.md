@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hi there, I'm Shuja! <img src="https://raw.githubusercontent.com/shujaalik/shujaalik/master/wave.gif" width="30px">
+# Hi there, I'm Shuja! <img src="https://raw.githubusercontent.com/shujaalik/shujaalik/master/wave.gif" width="25px">
 
 My name is Shuja Ali and I'm a Full-Stack Web Developer from Karachi, Pakistan. Currently working at KunjiSoft Technologies (Pvt) Ltd. You can contact me on <a href="https://www.linkedin.com/in/shujaalik/" target="_blank">@shujaalik<a> or email me at <a href="mailto:shujaali.kunji@gmail.com" target="_blank">shujaali.kunji@gmail.com<a>.
 
