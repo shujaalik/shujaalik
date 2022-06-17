@@ -28,11 +28,13 @@ const me = {
  projects: [
      {
          name: "Industrial Production Monitoring & Reporting",
-         url: "https://industrialpmr.com"
+         url: "https://industrialpmr.com",
+         status: "OK"
      },
      {
          name: "ShopsQual",
-         url: "https://shopsqual.com"
+         url: "https://shopsqual.com",
+         status: "under maintenance"
      }
  ]
 }
