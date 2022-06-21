@@ -29,12 +29,12 @@ const me = {
      {
          name: "Industrial Production Monitoring & Reporting",
          url: "https://industrialpmr.com",
-         status: "OK"
+         status: 200
      },
      {
          name: "ShopsQual",
          url: "https://shopsqual.com",
-         status: "under maintenance"
+         status: 503
      }
  ]
 }
