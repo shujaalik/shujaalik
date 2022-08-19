@@ -33,7 +33,7 @@ const me = {
      },
      {
          name: "ShopsQual",
-         url: "https://shopsqual.com",
+         url: "https://beta.shopsqual.com",
          status: 503
      }
  ]
