@@ -4,7 +4,7 @@
 
 ⚡ From MCUs in factories → SaaS dashboards in the cloud.  
 🛠️ industrialpmr @ KunjiSoft — real-time IIoT for smarter manufacturing  
-🧪 Experimenting with AI in healthcare (NephroSense)  
+🧪 Experimenting with AI in healthcare
 🎓 BCS @ Iqra University  
 
 > Hardware or software? Why not both 😉  
