@@ -1,6 +1,7 @@
 # 👨‍💻 Shuja Ali | Embedded Systems x IIoT x Full-Stack  
 
 💡 I make tiny chips talk big data. ⚡📡
+
 ⚡ From MCUs in factories → SaaS dashboards in the cloud.  
 🛠️ industrialpmr @ KunjiSoft — real-time IIoT for smarter manufacturing  
 🧪 Experimenting with AI in healthcare (NephroSense)  
